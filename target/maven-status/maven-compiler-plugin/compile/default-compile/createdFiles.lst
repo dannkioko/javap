@@ -1,0 +1,8 @@
+com\mycompany\cardealer2\OrderBeanInterface.class
+com\mycompany\cardealer2\JAXRSConfiguration.class
+com\mycompany\cardealer2\resources\JavaEE8Resource.class
+com\mycompany\cardealer2\CustomerBeanInterface.class
+com\mycompany\cardealer2\CustomerBean.class
+com\mycompany\cardealer2\CarBean.class
+com\mycompany\cardealer2\CarBeanInterface.class
+com\mycompany\cardealer2\OrderBean.class
